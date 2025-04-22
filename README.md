@@ -79,19 +79,22 @@ Analyze file signatures using tools like file, binwalk, or xxd to check for inco
 
   •	Display the extracted file content to verify:
   
-  ![image](https://github.com/user-attachments/assets/6fab15a7-706b-4c44-8d30-8418d57634b4)
+  ![Screenshot 2025-04-22 181343](https://github.com/user-attachments/assets/d233fcda-625d-41e1-a6c0-966a88c57292)
+
   
   •	Ensure the message matches the original secret content.
   
   •	Another command to see the same secret message is
   
-  ![image](https://github.com/user-attachments/assets/5e478ee7-baae-4b20-b2c3-8ed1b41f3d69)
+  ![Screenshot 2025-04-22 181406](https://github.com/user-attachments/assets/004de896-9c72-4350-ac40-23f3ab9bc222)
+
 
  
 ### Step 3: Retrieve Information About the Embedded Data
   •	To gather details about embedded content in the image:
   
-  ![image](https://github.com/user-attachments/assets/2a559d4f-e5e2-4567-9573-aa1e6ce873af)
+  ![Screenshot 2025-04-22 181555](https://github.com/user-attachments/assets/323daf00-0b81-4032-9c08-a7b6c6164f5f)
+
   
    
   •	This will display file type, size, and whether data is embedded.
