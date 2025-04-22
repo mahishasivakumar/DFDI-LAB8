@@ -3,7 +3,7 @@
 ## AIM:
 To hide and extract secret information (e.g., text files) inside a cover file (e.g., JPEG image) using the steganography tool `steghide` in Kali Linux.
 
-EQUIPMENTS REQUIRED:
+# EQUIPMENTS REQUIRED:
 ●	Hardware: PCs
 
 ```
